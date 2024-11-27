@@ -349,7 +349,7 @@ export default function MainPage() {
                                     <a href="#" className="text-blue-400 hover:text-blue-600 transition-colors">
                                         <Twitter size={24} />
                                     </a> */}
-                                    <a href="_blank" href="https://web.whatsapp.com/send?phone=+573013808307" className="text-green-600 hover:text-green-800 transition-colors">
+                                    <a target="_blank" href="https://web.whatsapp.com/send?phone=+573013808307" className="text-green-600 hover:text-green-800 transition-colors">
                                         <Phone size={24} />
                                     </a>
                                     <a target="_blank" href="https://www.instagram.com/filtroshexacol_hexagon/" className="text-pink-600 hover:text-pink-800 transition-colors">
